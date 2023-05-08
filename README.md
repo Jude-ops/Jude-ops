@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Jude-ops
-- 👀 I’m interested in Data Science and Software development
-- 🌱 I’m currently learning Web Development full stack
-- 💞️ I’m looking to collaborate on some web development projects
-- 📫 How to reach me .. you can reach me via my email mbaj790@gmail.com
+- 👋 Hi, I’m Jude Mba, Based in Cameroon
 
+- 🌱 I’m currently learning Full Stack Web Development
+
+- ✨ Aspiring to be a Data Scientist & Machine Learning Professional. 
+
+- 💞️ I’m looking to collaborate on Front-end development projects and Technical Writing work
+
+- 📫 You can reach me via my email - mbaj790@gmail.com
 <!---
 Jude-ops/Jude-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
