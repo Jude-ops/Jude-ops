@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jude Mba, Based in Cameroon
+- 👋 Heyo!!, Mba Jude over here!
 
 - 🌱 I’m currently learning Full Stack Web Development
 
