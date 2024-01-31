@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning Full Stack Web Development
 
-- ✨ Aspiring to be a Data Scientist & Machine Learning Professional. 
+- ✨ Aspiring to be a DevOps and Cloud Engineer. 
 
-- 💞️ I’m looking to collaborate on Front-end development projects and Technical Writing work
+- 💞️ I’m looking to collaborate on Full Stack development projects and Technical Writing work
 
 - 📫 You can reach me via my email - mbaj790@gmail.com
 <!---
